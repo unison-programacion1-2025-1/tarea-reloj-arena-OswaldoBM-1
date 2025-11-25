@@ -2,7 +2,7 @@
 
 import sys
 # TODO: importar la función reloj_arena
-from solucion import [reloj_arena]
+from solucion import reloj_arena
 
 def main():
     """
@@ -36,7 +36,7 @@ def main():
         return
 
     # TODO: llamar a la función reloj_arena con los parámetros m y s
-    reloj_arena(m, s)
+    reloj_arena(m,s)
 
 if __name__ == "__main__":
     main()
